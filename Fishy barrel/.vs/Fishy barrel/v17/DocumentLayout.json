@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\ThirdPersonCameraMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ThirdPersonCameraMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\MouseMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\MouseMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThirdPersonCameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\ThirdPersonCameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ThirdPersonCameraMovement.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\ThirdPersonCameraMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\ThirdPersonCameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:32:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Fish-in-a-barrel\\Fishy barrel\\Assets\\scripts\\MouseMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\MouseMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:22:15.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
